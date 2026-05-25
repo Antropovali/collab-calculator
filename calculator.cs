@@ -5,3 +5,4 @@ class Calc {
         int a = 5, b = 3;
         Console.WriteLine($"{a}+{b}={Add(a, b)}");
         Console.WriteLine($"{a}-{b}={Sub(a,b)}");
+        Console.WriteLine($"{a}*{b}={Mul(a, b)}");

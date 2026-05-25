@@ -6,3 +6,4 @@ class Calc {
         Console.WriteLine($"{a}+{b}={Add(a, b)}");
         Console.WriteLine($"{a}-{b}={Sub(a,b)}");
         Console.WriteLine($"{a}*{b}={Mul(a, b)}");
+        Console.WriteLine($"{a}/{b}={Div(a,b)}");

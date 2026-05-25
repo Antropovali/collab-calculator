@@ -10,3 +10,4 @@ class Calc {
     }
     static int Add(int x, int y) => x + y;
     static int Sub(int x, int y) => x - y;
+    static int Mul(int x, int y) => x * y;

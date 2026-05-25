@@ -9,3 +9,4 @@ class Calc {
         Console.WriteLine($"{a}/{b}={Div(a, b)}");
     }
     static int Add(int x, int y) => x + y;
+    static int Sub(int x, int y) => x - y;

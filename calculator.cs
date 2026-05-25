@@ -8,3 +8,4 @@ class Calc {
         Console.WriteLine($"{a}*{b}={Mul(a, b)}");
         Console.WriteLine($"{a}/{b}={Div(a, b)}");
     }
+    static int Add(int x, int y) => x + y;
